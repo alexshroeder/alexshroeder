@@ -1,4 +1,4 @@
-## Olá! Eu sou Alexandro Shroeder
+## Eai Dev, me chamo Alexandro Shroeder!
 
 ## 😎 Sobre mim
 Comecei a estudar programação em 2022 quando ingressei em um curso técnico de informática fornecido pela ETEC, desde então venho me aprofundando na área.
