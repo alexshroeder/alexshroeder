@@ -1,10 +1,18 @@
-## Olá! Sou Alexandro Shroeder
+## Olá! Eu sou Alexandro Shroeder
 
-- 🌱 Estou estudando Desenvolvimento de Software Multiplataforma - FATEC e Javascript - EBAC
+## 😎 Sobre mim
+Comecei a estudar programação em 2022 quando ingressei em um curso técnico de informática fornecido pela ETEC, desde então venho me aprofundando na área.
+Tenho muitas metas a serem batidas, uma delas é me tornar um Desenvolvedor Front-end e concluir minha faculdade.
+
+## 🧠 Estudando
+- 💻 Desenvolvimento de Software Multiplataforma - FATEC<br>
+- 📃 Javascript - EBAC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexshroeder&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshroeder)](https://github.com/alexshroeder/github-readme-stats)
 
+
+## ✨ Habilidades
 <div style="display: inline-block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
