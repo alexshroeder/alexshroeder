@@ -1,6 +1,6 @@
 ## Eai Dev, me chamo Alexandro Shroeder!
 
-## 😎 Sobre mim
+## 👦🏽 Sobre mim
 Comecei a estudar programação em 2022 quando ingressei em um curso técnico de informática fornecido pela ETEC, desde então venho me aprofundando na área.
 Tenho muitas metas a serem batidas, uma delas é me tornar um Desenvolvedor Front-end e concluir minha faculdade.
 
